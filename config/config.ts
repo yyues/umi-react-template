@@ -9,7 +9,7 @@ export default defineConfig({
   devServer: {
     port: 8007,
   },
-  mfsu: {},
+  // mfsu: {},
   extraPostCSSPlugins: [
     require('tailwindcss')({
       config: './tailwind.config.js',
