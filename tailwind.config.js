@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  mode: 'jit',
+  // mode: 'jit',
   purge: ['./src/**/*.{ts,tsx,js,jsx}'],
   darkMode: false,
   theme: {},

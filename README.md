@@ -13,3 +13,7 @@ react 的管理端模板，估计没有 比 `ant-design-pro` 更详细的了
 ------
 
 主要是提供 简单页面的模板， 用来对 react 练手
+
+# 我很失望， 对于 `taiwind` 的支持太差了,转向 `create-react-app` 了，
+
+此模板搁置 N 年
